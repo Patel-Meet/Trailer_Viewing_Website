@@ -5,7 +5,7 @@ This project uses python data structure to display the list of movies' poster on
 * Python 3.6.1
 * Fresh_tomatoes [repo](https://github.com/udacity/ud036_StarterCode)
 ## To Run:
-* [clone](https://github.com/Patel-Meet/ud036_StarterCode) this repo to your local machiene
+* [clone](https://github.com/Patel-Meet/Trailer_Viewing_Website.git) this repo to your local machiene
 ### Terminal
 * Open your terminal and type `python main.py` to run the project
 * The webpage will open up in your default browser
@@ -15,11 +15,11 @@ This project uses python data structure to display the list of movies' poster on
 * The webpage will open up in your default browser
 
 ## Files in the repo
-- [fresh_tomatoes.py](https://github.com/Patel-Meet/ud036_StarterCode/blob/master/fresh_tomatoes.py)
+- [fresh_tomatoes.py](https://github.com/Patel-Meet/Trailer_Viewing_Website/blob/master/fresh_tomatoes.py)
   * This file creates the HTML page.
-- [media.py](https://github.com/Patel-Meet/ud036_StarterCode/blob/master/media.py)
+- [media.py](https://github.com/Patel-Meet/Trailer_Viewing_Website/blob/master/media.py)
   * This file contains the movie class
-- [main.py](https://github.com/Patel-Meet/ud036_StarterCode/blob/master/main.py)
+- [main.py](https://github.com/Patel-Meet/Trailer_Viewing_Website/blob/master/main.py)
   * This file has list of movies and it makes function call to a function in fresh_tomatoes.py 
     and provides it with the list of movies.
 
